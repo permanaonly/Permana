@@ -2,13 +2,13 @@
 <html lang="en" class="fullscreen-bg">
 
 <head>
-	<title>Login | Klorofil - Free Bootstrap Dashboard Template</title>
+	<title>Login | Klorofil - Catetan Perjalanan</title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<!-- VENDOR CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/vendor/fontawesome/css/all.min.css">
 	<link rel="stylesheet" href="assets/vendor/linearicons/style.css">
 	<!-- MAIN CSS -->
 	<link rel="stylesheet" href="assets/css/main.css">
@@ -42,10 +42,10 @@
 									<label for="name" class="control-label sr-only">name</label>
 									<input type="text" class="form-control" name="name" id="name" placeholder="Masukkan nama mu">
 								</div>
-				
-								<button type="submit" class="btn btn-info btn-md btn-block"><i class="fas fa fa-spinner"></i> LOGIN</button>
-								<a href="register.php" type="button" class="btn btn-primary btn-md btn-block">Register <i class="    fas fa fa-arrow-right"></i> </a>
-								
+
+								<button type="submit" class="btn btn-info btn-md btn-block"><i class="fa-solid fa-right-to-bracket"></i> LOGIN</button>
+								<a href="register.php" type="button" class="btn btn-primary btn-md btn-block">Register <i class="fa-solid fa-arrows-spin"></i> </a>
+
 							</form>
 						</div>
 					</div>
